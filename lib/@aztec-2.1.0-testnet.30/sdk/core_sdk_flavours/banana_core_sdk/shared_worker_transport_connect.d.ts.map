@@ -1,0 +1,1 @@
+{"version":3,"file":"shared_worker_transport_connect.d.ts","sourceRoot":"","sources":["../../../src/core_sdk_flavours/banana_core_sdk/shared_worker_transport_connect.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,6BAA6B,EAAE,gBAAgB,EAAE,MAAM,iBAAiB,CAAC;AAElF,qBAAa,4BAA6B,YAAW,gBAAgB;IACvD,OAAO,CAAC,YAAY;gBAAZ,YAAY,EAAE,YAAY;IAExC,YAAY;CAGnB"}

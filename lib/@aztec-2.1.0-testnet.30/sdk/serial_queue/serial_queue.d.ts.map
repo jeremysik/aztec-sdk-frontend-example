@@ -1,0 +1,1 @@
+{"version":3,"file":"serial_queue.d.ts","sourceRoot":"","sources":["../../src/serial_queue/serial_queue.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,WAAW;IAC1B,MAAM,IAAI,MAAM,CAAC;IACjB,IAAI,CAAC,CAAC,EAAE,EAAE,EAAE,MAAM,OAAO,CAAC,CAAC,CAAC,GAAG,OAAO,CAAC,CAAC,CAAC,CAAC;IAC1C,MAAM,IAAI,IAAI,CAAC;CAChB"}

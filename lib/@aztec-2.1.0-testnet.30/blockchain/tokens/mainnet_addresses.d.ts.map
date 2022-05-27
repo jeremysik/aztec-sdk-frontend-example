@@ -1,0 +1,1 @@
+{"version":3,"file":"mainnet_addresses.d.ts","sourceRoot":"","sources":["../../src/tokens/mainnet_addresses.ts"],"names":[],"mappings":"AAAA,aAAK,UAAU,GAAG;IAChB,CAAC,GAAG,EAAE,MAAM,GAAG,MAAM,CAAC;CACvB,CAAC;AAEF,qBAAa,gBAAgB;IAC3B,MAAM,CAAC,QAAQ,CAAC,MAAM,EAAE,UAAU,CAchC;IAEF,MAAM,CAAC,QAAQ,CAAC,SAAS,EAAE,UAAU,CAMnC;CACH"}

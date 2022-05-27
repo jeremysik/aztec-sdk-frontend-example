@@ -1,0 +1,1 @@
+// This shim is only needed when using the latest version of @aztec/sdk (v2.1.4)
