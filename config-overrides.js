@@ -24,7 +24,7 @@ module.exports = function override(config) {
             Buffer : ['buffer', 'Buffer']
         }),
         
-        // These files are needed when running shared worker mode
+        // These file locations are specific to @aztec/sdk v2.1.0-testnet.30
         new CopyPlugin({
             patterns: [
                 {

@@ -1,1 +1,0 @@
-{"version":3,"file":"iframe_transport_connect.d.ts","sourceRoot":"","sources":["../../../src/core_sdk_flavours/strawberry_core_sdk/iframe_transport_connect.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,6BAA6B,EAAE,gBAAgB,EAAE,MAAM,iBAAiB,CAAC;AAElF,qBAAa,sBAAuB,YAAW,gBAAgB;IACjD,OAAO,CAAC,MAAM;IAAU,OAAO,CAAC,YAAY;gBAApC,MAAM,EAAE,MAAM,EAAU,YAAY,EAAE,MAAM;IAE1D,YAAY;CAKnB"}

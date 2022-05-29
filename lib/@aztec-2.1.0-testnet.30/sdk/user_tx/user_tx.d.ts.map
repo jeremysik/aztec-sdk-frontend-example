@@ -1,1 +1,0 @@
-{"version":3,"file":"user_tx.d.ts","sourceRoot":"","sources":["../../src/user_tx/user_tx.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,mBAAmB,CAAC;AAClD,OAAO,EAAE,UAAU,EAAE,MAAM,gBAAgB,CAAC;AAC5C,OAAO,EAAE,eAAe,EAAE,MAAM,sBAAsB,CAAC;AACvD,OAAO,EAAE,aAAa,EAAE,MAAM,mBAAmB,CAAC;AAElD,oBAAY,MAAM,GAAG,aAAa,GAAG,UAAU,GAAG,eAAe,GAAG,aAAa,CAAC"}

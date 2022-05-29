@@ -90,8 +90,10 @@
     detect-node "^2.1.0"
     sha3 "^2.1.4"
 
-"@aztec/sdk@file:./lib/@aztec-2.1.0-testnet.30/sdk":
+"@aztec/sdk@2.1.0-testnet.30":
   version "2.1.0-testnet.30"
+  resolved "https://registry.yarnpkg.com/@aztec/sdk/-/sdk-2.1.0-testnet.30.tgz#11caa869c92b403f2cc3f6406a5bea6598f10da6"
+  integrity sha512-leeVVVj8uLVDskcbbLIGjpiBflULO/bp5kzmgbtrsBPxwOZGOxbJIJ2amMq7WraWhprgd0aoJL3J4EyPDj4oAQ==
   dependencies:
     "@aztec/barretenberg" "2.1.0-testnet.30"
     "@aztec/blockchain" "2.1.0-testnet.30"
@@ -10390,6 +10392,9 @@ react-is@^18.0.0:
   version "18.1.0"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-18.1.0.tgz#61aaed3096d30eacf2a2127118b5b41387d32a67"
   integrity sha512-Fl7FuabXsJnV5Q1qIOQwx/sagGF18kogb4gpfcG4gjLBWO0WDiiz1ko/ExayuxE7InyQkBLkxRFG5oxY6Uu3Kg==
+
+"react-native-sqlite-storage@file:./shim/react-native-sqlite-storage":
+  version "0.0.0"
 
 react-refresh@^0.11.0:
   version "0.11.0"

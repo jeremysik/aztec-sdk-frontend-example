@@ -1,1 +1,0 @@
-{"version":3,"file":"web3_provider.d.ts","sourceRoot":"","sources":["../../../../../src/client/aztec/provider/web3_provider.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,YAAY,EAAE,MAAM,0BAA0B,CAAC;AACxD,OAAO,EAAE,gBAAgB,EAAE,MAAM,gCAAgC,CAAC;AAElE,eAAO,MAAM,kBAAkB,qBAAsB,gBAAgB,iBAAuC,CAAC"}

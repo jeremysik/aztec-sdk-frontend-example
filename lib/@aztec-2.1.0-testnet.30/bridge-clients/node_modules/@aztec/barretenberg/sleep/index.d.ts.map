@@ -1,1 +1,0 @@
-{"version":3,"file":"index.d.ts","sourceRoot":"","sources":["../../src/sleep/index.ts"],"names":[],"mappings":"AAAA,qBAAa,kBAAkB;IAC7B,OAAO,CAAC,gBAAgB,CAAY;IACpC,OAAO,CAAC,gBAAgB,CAAmE;IAC3F,OAAO,CAAC,QAAQ,CAAwB;IAE3B,KAAK,CAAC,EAAE,EAAE,MAAM;IAStB,SAAS;CAIjB;AAED,wBAAsB,KAAK,CAAC,EAAE,EAAE,MAAM,oBAErC"}
