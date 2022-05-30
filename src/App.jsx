@@ -81,7 +81,8 @@ function App() {
         const publicKey     = await aztecSdk.derivePublicKey(privateKey);
         console.log("Created keys", { privateKey, publicKey });
     
-        const accountId  = new AccountId(publicKey);
+        const nonce      = await aztecSdk.getLatestAccountNonce(publicKey);
+        const accountId  = new AccountId(publicKey, nonce);
         const userExists = await aztecSdk.userExists(accountId);
     
         let user;
