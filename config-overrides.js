@@ -15,7 +15,7 @@ module.exports = function override(config) {
         "os"    : require.resolve("os-browserify"),
         "url"   : require.resolve("url"),
         "fs"    : require.resolve("browserify-fs")
-    })
+    });
 
     let plugins = [
         // Only required for @aztec/sdk v2.1.0-testnet.30 or greater, not for v2.0.112
@@ -37,7 +37,7 @@ module.exports = function override(config) {
                 }
             ],
         })
-    ]
+    ];
 
     config.resolve.fallback = fallback;
     config.plugins          = (config.plugins || []).concat(plugins);
