@@ -24,15 +24,14 @@ module.exports = function override(config) {
             Buffer : ['buffer', 'Buffer']
         }),
         
-        // These file locations are specific to @aztec/sdk v2.1.0-testnet.30
         new CopyPlugin({
             patterns: [
                 {
-                    from: './node_modules/@aztec/barretenberg/wasm/barretenberg.wasm',
+                    from: './node_modules/@aztec/**/barretenberg.wasm',
                     to  : '[name][ext]',
                 },
                 {
-                    from: './node_modules/@aztec/barretenberg/worker.js',
+                    from: './node_modules/@aztec/**/worker.js',
                     to  : '[name][ext]',
                 }
             ],
